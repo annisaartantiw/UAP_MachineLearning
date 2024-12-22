@@ -7,6 +7,8 @@ by: ANNISA ARTANTI WIDYADHANA
 Proyek ini bertujuan untuk mengembangkan sebuah sistem klasifikasi gambar yang dapat mengenali dan membedakan beberapa jenis buah dan sayur. Sistem ini dapat digunakan dalam berbagai aplikasi yang membutuhkan kemampuan untuk mengenali jenis buah dan sayur dari gambar, seperti aplikasi belanja atau sistem manajemen inventaris makanan.
 
 - **Link Dataset yang digunakan:** [Fruits 360 Dataset](https://www.kaggle.com/datasets/moltean/fruits)
+- **Link Model VGG:** [VGG Model](https://drive.google.com/file/d/1-6p_xFgpHVSeuaJvwY2YBiy4S3YpFEIu/view?usp=sharing)
+- **Link Model CNN:** [CNN Model](https://drive.google.com/file/d/16bBbLwxsEDdFIY2ytVAdgbjC-_pLsBsc/view?usp=sharing)
 - **Repositori GitHub:** [UAP_MachineLearning](https://github.com/annisaartantiw/UAP_MachineLearning)
 
 ## **🖥️ Preprocessing dan Modelling**
