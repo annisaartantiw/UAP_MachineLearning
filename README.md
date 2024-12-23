@@ -1,5 +1,5 @@
 
-# **🥑🍌Deep Learning untuk Klasifikasi Gambar Buah dan Sayur🌽🥦**
+# **🥑🍌Deep Learning untuk Klasifikasi Gambar Buah🌽🥦**
 
 by: ANNISA ARTANTI WIDYADHANA
 
