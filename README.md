@@ -1,10 +1,10 @@
 
 # **🥑🍌Deep Learning untuk Klasifikasi Gambar Buah🌽🥦**
 
-by: ANNISA ARTANTI WIDYADHANA
+by: ANNISA ARTANTI WIDYADHANA - 202110370311217
 
 ## **📃 Overview Project**
-Proyek ini bertujuan untuk mengembangkan sebuah sistem klasifikasi gambar yang dapat mengenali dan membedakan beberapa jenis buah dan sayur. Sistem ini dapat digunakan dalam berbagai aplikasi yang membutuhkan kemampuan untuk mengenali jenis buah dan sayur dari gambar, seperti aplikasi belanja atau sistem manajemen inventaris makanan.
+Proyek ini bertujuan untuk mengembangkan sebuah sistem klasifikasi gambar yang dapat mengenali dan membedakan beberapa jenis buah. Sistem ini dapat digunakan dalam berbagai aplikasi yang membutuhkan kemampuan untuk mengenali jenis buah dari gambar, seperti aplikasi belanja atau sistem manajemen inventaris makanan.
 
 - **Link Dataset yang digunakan:** [Fruits 360 Dataset](https://www.kaggle.com/datasets/moltean/fruits)
 - **Link Model VGG:** [VGG Model](https://drive.google.com/file/d/1-6p_xFgpHVSeuaJvwY2YBiy4S3YpFEIu/view?usp=sharing)
@@ -46,7 +46,7 @@ model_cnn = Sequential([
 ```
 
 ## **💡 VGG16 Architecture**
-Model VGG16 merupakan model pretrained yang digunakan dengan memanfaatkan bobot yang sudah dilatih sebelumnya pada dataset ImageNet. VGG16 akan digunakan sebagai dasar untuk model klasifikasi buah dan sayur.
+Model VGG16 merupakan model pretrained yang digunakan dengan memanfaatkan bobot yang sudah dilatih sebelumnya pada dataset ImageNet. VGG16 akan digunakan sebagai dasar untuk model klasifikasi buah.
 
 ```python
 vgg_base = VGG16(weights='imagenet', include_top=False, input_shape=(150, 150, 3))
